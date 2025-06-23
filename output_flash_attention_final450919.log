@@ -1,0 +1,10 @@
+[sbatch-master] Running on nid006546
+[sbatch-master] SLURM_NODELIST: nid006546
+[sbatch-master] SLURM_NNODES: 1
+[sbatch-master] SLURM_NODEID: 0
+[sbatch-master] MASTER_ADDR: nid006546
+[sbatch-master] MASTER_PORT: 12345
+[sbatch-master] WORLD_SIZE: 1
+[sbatch-master] Training baseline model (standard attention)...
+[sbatch-master] Training FlashAttention model and comparing to baseline...
+[sbatch-master] Finished both training phases.
